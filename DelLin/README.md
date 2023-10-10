@@ -159,7 +159,7 @@ namespace DelLinTest
 
 ## Known Issues
 
-70% of Russian addresses indicated in accordance with the [Federal Address Information System](https://fias.nalog.ru/) are rejected by the Delovye Linii API information system. This becomes a serious obstacle to further automation, this applies to such functionality as Shipping Cost & Time Calculator and Placing LTL orders. Make official requests directly to your manager at the Delovye Linii group of companies, by [email](api_support@dellin.ru) or through the [request management system](https://helpdesk.dellin.ru/).
+70% of Russian addresses indicated in accordance with the [Federal Address Information System](https://fias.nalog.ru/) are rejected by the Delovye Linii API information system. This becomes a serious obstacle to further automation, this applies to such functionality as Shipping Cost & Time Calculator and Placing LTL orders. Make official requests directly to your manager at the Delovye Linii group of companies, by [email](mailto:api_support@dellin.ru) or through the [request management system](https://helpdesk.dellin.ru/).
 
 ## License
 
