@@ -13,7 +13,7 @@ An unofficial .NET client library for accessing the Delovye Linii API.
 
 ## "Delovye Linii"
 
-The "Delovye Linii" (Business Lines) group of companies is a Russian company providing express delivery of goods and documents, warehousing and other freight forwarding and logistics services in Russia and around the world. The largest Russian transport and logistics operator: it ranks first in terms of warehouse space in the regions. Founded in 2001. The company's headquarters is located in St. Petersburg.
+Delovye Linii Group Company, founded in 2001, reaches more than 90% of the locations in Russia, with its delivery services extended to Belarus, Kazakhstan, Kyrgyzstan, Armenia, China, East Asia and Europe. The company is ranked first in the reliability rating of consolidated cargo carriers ('Public Consumer Initiative', 2023) and first in terms of warehouse space in Russia's regions (as reported by Knight Frank, 2021). The company's headquarters is located in St. Petersburg.
 
 Official website: [https://www.dellin.ru/](https://www.dellin.ru/).
 

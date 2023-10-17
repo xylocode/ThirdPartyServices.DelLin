@@ -13,6 +13,7 @@ namespace XyloCode.ThirdPartyServices.DelLin.CitiesAndTerminals.FileModel
         [JsonConverter(typeof(JsonStringAsIntConverter))]
         public int Id { get; set; }
 
+        public int? CityId {  get; set; }
 
         /// <summary>
         /// Наименование терминала

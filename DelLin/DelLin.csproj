@@ -10,10 +10,11 @@
 	  <Title>DelLin</Title>
 	  <Authors>xylocode</Authors>
 	  <Copyright>Copyright (c) 2023 Sergey Korobeynikov</Copyright>
-	  <PackageTags>Delovye Linii; dellin.ru; API</PackageTags>
+	  <PackageTags>DelovyeLinii; ДеловыеЛинии; dellin.ru; API</PackageTags>
 	  <PackageIcon>LOGO.png</PackageIcon>
 	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	  <Product>XyloCode.ThirdPartyServices.DelLin</Product>
+	  <Version>1.0.1</Version>
 	  <Description>An unofficial client library for accessing the Delovye Linii API.</Description>
 	  <PackageProjectUrl>https://xylocode.com/third-party-services/dellin/</PackageProjectUrl>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
@@ -25,7 +26,8 @@
 	  <ApplicationIcon>favicon.ico</ApplicationIcon>
 	  <IncludeSymbols>True</IncludeSymbols>
 	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-  </PropertyGroup>
+	  <GenerateDocumentationFile>True</GenerateDocumentationFile>
+ </PropertyGroup>
 
 	<ItemGroup>
 		<Content Include="favicon.ico" />
