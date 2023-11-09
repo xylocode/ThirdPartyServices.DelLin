@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Text.Json.Serialization;
+﻿using System.Text.Json.Serialization;
 
 namespace XyloCode.ThirdPartyServices.DelLin.OrderLog.Res
 {
@@ -59,7 +58,7 @@ namespace XyloCode.ThirdPartyServices.DelLin.OrderLog.Res
         /// ID терминала-отправителя/получателя из "Справочника терминалов".
         /// </summary>
         [JsonPropertyName("terminalId")]
-        public int? TerminalId { get; set; }
+        public string TerminalId { get; set; }
 
 
         /// <summary>

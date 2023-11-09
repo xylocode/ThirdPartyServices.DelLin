@@ -55,7 +55,7 @@ namespace XyloCode.ThirdPartyServices.DelLin.Calc1.Req
         /// Допускается передача только одного из следующих параметров: "terminalID", "addressID", "address", "city"
         /// </summary>
         [JsonPropertyName("terminalID")]
-        public Guid? TerminalID { get; set; }
+        public string TerminalID { get; set; }
 
         /// <summary>
         /// ID адреса отправителя/получателя из адресной книги Личного кабинета(подробнее см. сервис "Адреса").
@@ -63,7 +63,7 @@ namespace XyloCode.ThirdPartyServices.DelLin.Calc1.Req
         /// Допускается передача только одного из следующих параметров: "terminalID", "addressID", "address", "city"
         /// </summary>
         [JsonPropertyName("addressID")]
-        public int? AddressID { get; set; }
+        public string AddressID { get; set; }
 
 
         /// <summary>

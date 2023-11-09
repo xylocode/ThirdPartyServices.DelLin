@@ -58,7 +58,7 @@ namespace XyloCode.ThirdPartyServices.DelLin.LTL.Req
         /// Допускается передача только одного из следующих параметров: "terminalID", "addressID", "address", "city"
         /// </summary>
         [JsonPropertyName("terminalID")]
-        public Guid? TerminalID { get; set; }
+        public string TerminalID { get; set; }
 
 
         /// <summary>
@@ -67,7 +67,7 @@ namespace XyloCode.ThirdPartyServices.DelLin.LTL.Req
         /// Допускается передача только одного из следующих параметров: "terminalID", "addressID", "address", "city"
         /// </summary>
         [JsonPropertyName("addressID")]
-        public int? AddressID { get; set; }
+        public string AddressID { get; set; }
 
 
         /// <summary>
