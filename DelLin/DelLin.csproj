@@ -14,7 +14,7 @@
 	  <PackageIcon>LOGO.png</PackageIcon>
 	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	  <Product>XyloCode.ThirdPartyServices.DelLin</Product>
-	  <Version>1.1.0</Version>
+	  <Version>1.1.1</Version>
 	  <Description>An unofficial client library for accessing the Delovye Linii API.</Description>
 	  <PackageProjectUrl>https://xylocode.com/third-party-services/dellin/</PackageProjectUrl>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>

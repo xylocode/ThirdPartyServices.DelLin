@@ -22,7 +22,7 @@ namespace XyloCode.ThirdPartyServices.DelLin.Calc1.Res
         public string StreetCode { get; set; }
 
         [JsonPropertyName("price")]
-        public int? Price { get; set; }
+        public decimal? Price { get; set; }
 
         [JsonPropertyName("contractPrice")]
         public bool? ContractPrice { get; set; }
