@@ -14,7 +14,7 @@
 	  <PackageIcon>LOGO.png</PackageIcon>
 	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	  <Product>XyloCode.ThirdPartyServices.DelLin</Product>
-	  <Version>1.1.1</Version>
+	  <Version>1.2.0</Version>
 	  <Description>An unofficial client library for accessing the Delovye Linii API.</Description>
 	  <PackageProjectUrl>https://xylocode.com/third-party-services/dellin/</PackageProjectUrl>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
@@ -22,7 +22,7 @@
 	  <RepositoryType>git</RepositoryType>
 	  <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
-	  <PackageReleaseNotes>TerminalID, AddressID proporties type change to string.</PackageReleaseNotes>
+	  <PackageReleaseNotes>Fix bug for Price property (CalculationResponse).</PackageReleaseNotes>
 	  <IncludeSymbols>True</IncludeSymbols>
 	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
 	  <GenerateDocumentationFile>True</GenerateDocumentationFile>
