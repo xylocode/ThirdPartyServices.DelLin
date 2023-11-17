@@ -9,7 +9,8 @@ An unofficial .NET client library for accessing the Delovye Linii API.
 #### Supported Platforms
 
 - .NET 6.0 LTS;
-- .NET 7.0.
+- .NET 7.0;
+- .NET 8.0 LTS.
 
 ## "Delovye Linii"
 
